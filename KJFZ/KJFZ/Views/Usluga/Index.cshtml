@@ -1,0 +1,63 @@
+﻿@model IEnumerable<KJFZ.Models.UslugaBO>
+@{
+    ViewData["Title"] = "Usluge";
+    AutorizacijaClass ac = new AutorizacijaClass();
+}
+
+<h1>Usluge</h1>
+
+<p>
+    @{if (ac.Autorizacija(ViewContext.HttpContext,2)) {
+            <a asp-action="Create">Nova usluga</a>
+        } }
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Usluga
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cena)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Trajanje)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Opis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Aktivna)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UslugaId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cena)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Trajanje)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Opis)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Aktivna)
+                </td>
+                <td>
+                @{ if (ac.Autorizacija(ViewContext.HttpContext, 2))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.UslugaId">Promena</a>
+                } }
+                <a asp-action="Details" asp-route-id="@item.UslugaId">Detalji</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

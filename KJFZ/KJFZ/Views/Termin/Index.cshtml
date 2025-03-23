@@ -1,0 +1,74 @@
+﻿@model IEnumerable<KJFZ.Models.TerminBO>
+@{
+    ViewData["Title"] = "Termini";
+    AutorizacijaClass ac = new AutorizacijaClass();
+    Include1 inc1 = new Include1();
+}
+
+<h1>Termini</h1>
+
+<p>
+    <a asp-action="Create">Zakazivanje</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Termin
+            </th>
+            <th>
+                Korisnik          
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Datum)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vreme)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Uradjeno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Usluga)
+            </th>
+            <th>
+                Frizer
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TerminId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KorisnikId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Datum)
+            </td>
+            <td>
+                @inc1.intToHalfHour(Html.DisplayFor(modelItem => item.Vreme))
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Uradjeno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UslugaId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KorisnikFrizerId)
+            </td>
+            <td>
+                @{if (ac.Autorizacija(ViewContext.HttpContext,2)) {
+                    <a asp-action="Edit" asp-route-id="@item.TerminId">Promena</a> 
+                } }
+                <a asp-action="Details" asp-route-id="@item.TerminId">Detalji</a> 
+                <a asp-action="Delete" asp-route-id="@item.TerminId">Otkazivanje</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

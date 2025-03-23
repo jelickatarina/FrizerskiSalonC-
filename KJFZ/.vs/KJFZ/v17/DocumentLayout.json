@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\controllers\\termincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\controllers\\termincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\include1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\include1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\controllers\\korisnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\controllers\\korisnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\views\\termin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\views\\termin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\views\\termin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\views\\termin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\views\\termin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\views\\termin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\views\\usluga\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\views\\usluga\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\autorizacijaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\autorizacijaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\kaca\\desktop\\kjfz\\kjfz\\kjfz\\models\\efrepository\\kjfzrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\models\\efrepository\\kjfzrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorizacijaClass.cs",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\AutorizacijaClass.cs",
+              "RelativeDocumentMoniker": "KJFZ\\AutorizacijaClass.cs",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\AutorizacijaClass.cs",
+              "RelativeToolTip": "KJFZ\\AutorizacijaClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:27:25.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KorisnikController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Controllers\\KorisnikController.cs",
+              "RelativeDocumentMoniker": "KJFZ\\Controllers\\KorisnikController.cs",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Controllers\\KorisnikController.cs",
+              "RelativeToolTip": "KJFZ\\Controllers\\KorisnikController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:24:11.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Views\\Termin\\Create.cshtml",
+              "RelativeDocumentMoniker": "KJFZ\\Views\\Termin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Views\\Termin\\Create.cshtml",
+              "RelativeToolTip": "KJFZ\\Views\\Termin\\Create.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T23:11:31.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Views\\Termin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KJFZ\\Views\\Termin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Views\\Termin\\Edit.cshtml",
+              "RelativeToolTip": "KJFZ\\Views\\Termin\\Edit.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T23:21:12.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Views\\Termin\\Index.cshtml",
+              "RelativeDocumentMoniker": "KJFZ\\Views\\Termin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Views\\Termin\\Index.cshtml",
+              "RelativeToolTip": "KJFZ\\Views\\Termin\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T15:19:41.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TerminController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Controllers\\TerminController.cs",
+              "RelativeDocumentMoniker": "KJFZ\\Controllers\\TerminController.cs",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Controllers\\TerminController.cs",
+              "RelativeToolTip": "KJFZ\\Controllers\\TerminController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAjwJcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:26:49.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Include1.cs",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Include1.cs",
+              "RelativeDocumentMoniker": "KJFZ\\Include1.cs",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Include1.cs",
+              "RelativeToolTip": "KJFZ\\Include1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:58:50.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KJFZ\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KJFZ\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:23:15.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Views\\Usluga\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KJFZ\\Views\\Usluga\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Views\\Usluga\\Edit.cshtml",
+              "RelativeToolTip": "KJFZ\\Views\\Usluga\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T11:37:22.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KJFZRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Models\\EFRepository\\KJFZRepository.cs",
+              "RelativeDocumentMoniker": "KJFZ\\Models\\EFRepository\\KJFZRepository.cs",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Models\\EFRepository\\KJFZRepository.cs",
+              "RelativeToolTip": "KJFZ\\Models\\EFRepository\\KJFZRepository.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:57:16.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Program.cs",
+              "RelativeDocumentMoniker": "KJFZ\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaca\\Desktop\\KJFZ\\KJFZ\\KJFZ\\Program.cs",
+              "RelativeToolTip": "KJFZ\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwv0QAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:56:24.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

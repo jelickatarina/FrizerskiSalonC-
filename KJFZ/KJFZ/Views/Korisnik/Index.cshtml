@@ -1,0 +1,76 @@
+﻿@model IEnumerable<KJFZ.Models.KorisnikBO>
+@{
+    ViewData["Title"] = "Korisnici";
+}
+
+<h1>Korisnici</h1>
+
+<p>
+    <a asp-action="Create">Novi korisnik</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Korisnik
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lozinka)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prezime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DatumRodjenja)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nivo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.KorisnikId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lozinka)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prezime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DatumRodjenja)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nivo)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.KorisnikId">Promena</a> |
+                <a asp-action="Details" asp-route-id="@item.KorisnikId">Detalji</a> |
+            </td>
+        </tr>
+}
+    </tbody>    
+</table>
+<br />Nivo: 0-neaktivan,1-klijenti,2-zaposleni,9-administratori

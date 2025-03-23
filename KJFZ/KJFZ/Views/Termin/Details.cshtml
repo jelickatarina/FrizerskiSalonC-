@@ -1,0 +1,65 @@
+﻿@model KJFZ.Models.TerminBO
+@{
+    ViewData["Title"] = "Detalji";
+    AutorizacijaClass ac = new AutorizacijaClass();
+    Include1 inc1 = new Include1();
+}
+
+<h1>Detalji</h1>
+
+<div>
+    <h4>Termin</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Termin
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TerminId)
+        </dd>
+        <dt class="col-sm-2">
+            Korisnik
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Korisnik.KorisnikId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Datum)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Datum)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Vreme)
+        </dt>
+        <dd class = "col-sm-10">
+            @inc1.intToHalfHour(Html.DisplayFor(model => model.Vreme))
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Uradjeno)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Uradjeno)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Usluga)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Usluga.UslugaId)
+        </dd>
+        <dt class = "col-sm-2">
+            Frizer
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KorisnikFrizerId)
+        </dd>
+    </dl>
+</div>
+<div>
+    @{
+        if (ac.Autorizacija(ViewContext.HttpContext, 2))
+        {
+            <a asp-action="Edit" asp-route-id="@Model?.TerminId">Promena</a>
+        } }
+    <a asp-action="Index">Nazad na listu</a>
+</div>

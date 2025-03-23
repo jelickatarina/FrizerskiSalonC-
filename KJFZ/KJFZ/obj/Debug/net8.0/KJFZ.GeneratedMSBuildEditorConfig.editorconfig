@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KJFZ
+build_property.RootNamespace = KJFZ
+build_property.ProjectDir = C:\Users\Kaca\Desktop\KJFZ\KJFZ\KJFZ\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Kaca\Desktop\KJFZ\KJFZ\KJFZ
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Home/NemaOvl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZW1hT3ZsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Home/ONama.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPTmFtYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Korisnik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Korisnik/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Korisnik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Korisnik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Odjava/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RqYXZhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Prijava/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpamF2YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Registracija/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmFjaWphXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Termin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Termin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Termin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Termin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Termin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Usluga/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNsdWdhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Usluga/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNsdWdhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Usluga/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNsdWdhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Usluga/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNsdWdhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaca/Desktop/KJFZ/KJFZ/KJFZ/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ta501tukiw

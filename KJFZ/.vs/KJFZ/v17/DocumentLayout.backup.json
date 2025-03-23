@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djelic\\source\\repos\\KJFZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|c:\\users\\djelic\\source\\repos\\kjfz\\kjfz\\models\\efrepository\\kjfzrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45FCB4F-A932-4624-ACE8-AAD9AA342B70}|KJFZ\\KJFZ.csproj|solutionrelative:kjfz\\models\\efrepository\\kjfzrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KJFZRepository.cs",
+              "DocumentMoniker": "C:\\Users\\djelic\\source\\repos\\KJFZ\\KJFZ\\Models\\EFRepository\\KJFZRepository.cs",
+              "RelativeDocumentMoniker": "KJFZ\\Models\\EFRepository\\KJFZRepository.cs",
+              "ToolTip": "C:\\Users\\djelic\\source\\repos\\KJFZ\\KJFZ\\Models\\EFRepository\\KJFZRepository.cs",
+              "RelativeToolTip": "KJFZ\\Models\\EFRepository\\KJFZRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:57:16.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

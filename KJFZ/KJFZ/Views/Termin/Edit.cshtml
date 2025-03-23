@@ -1,0 +1,60 @@
+﻿@model KJFZ.Models.TerminBO
+@{
+    ViewData["Title"] = "Promena";
+    Include1 inc1 = new Include1();
+}
+
+<h1>Promena</h1>
+
+<h4>Termin</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label>Termin</label>
+                <input readonly asp-for="TerminId" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Korisnik</label>
+                <input readonly asp-for="KorisnikId" class="form-control" asp-items="ViewBag.KorisnikId"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Datum" class="control-label"></label>
+                <input readonly asp-for="Datum" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Vreme" class="control-label"></label>
+                <input readonly value="@ViewBag.VremeHalfHour" class="form-control" />
+                <input hidden asp-for="Vreme" class="form-control" />
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Uradjeno" /> @Html.DisplayNameFor(model => model.Uradjeno)
+                </label>
+            </div>
+            <div class="form-group">
+                <label>Usluga</label>
+                <input readonly asp-for="UslugaId" class="form-control" asp-items="ViewBag.UslugaId" />
+                <span asp-validation-for="UslugaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Frizer</label>
+                <input readonly asp-for="KorisnikFrizerId" class="form-control" asp-items="ViewBag.KorisnikFrizerId"/>
+                <span asp-validation-for="KorisnikFrizerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Promeni" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Nazad na listu</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
